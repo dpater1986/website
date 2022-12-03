@@ -1,0 +1,3 @@
+[submodule "themes/sinned"]
+	path = themes/sinned
+	url = git@github.com:dpater1986/sinned.git
