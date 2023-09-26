@@ -110,7 +110,7 @@ params:
     hiddenInSingle: true # hide on single page
 
   editPost:
-    URL: "https://github.com/dpater1986/website/content"
+    URL: "https://github.com/dpater1986/website/tree/main/content"
     Text: "Meld een verbetring aan deze tekst" # edit text
     appendFilePath: true # to append file path to Edit link
 
