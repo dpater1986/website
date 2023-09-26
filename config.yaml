@@ -12,6 +12,8 @@ minify:
   disableXML: true
   minifyOutput: true
 
+defaultContentLanguage: nl
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Dennis Pater
@@ -19,7 +21,7 @@ params:
   keywords: [Blog, Portfolio, PaperMod]
   author: Dennis Pater
   # author: ["Me", "You"] # multiple authors
-  images: ["/me.jpg"]
+  images: ["/dennis.jpg"]
   DateFormat: "2 januari 2006"
   defaultTheme: light # dark, light
   disableThemeToggle: true
@@ -58,7 +60,7 @@ params:
   profileMode:
     enabled: true # needs to be explicitly set
     title: Dennis Pater 
-    subtitle: "This is subtitle"
+    subtitle: "Mijn Persoonlijke portfolio site!"
     imageUrl: "/dennis.jpg"
     imageWidth: 120
     imageHeight: 120
@@ -75,12 +77,8 @@ params:
     Content: Welcome to my blog
 
   socialIcons:
-    - name: twitter
-      url: "https://twitter.com/"
-    - name: stackoverflow
-      url: "https://stackoverflow.com"
     - name: github
-      url: "https://github.com/"
+      url: "https://github.com/dpater1986"
 
         #analytics:
         #google:
