@@ -71,7 +71,7 @@ params:
 
   # profile-mode
   profileMode:
-    enabled: false # needs to be explicitly set
+    enabled: true # needs to be explicitly set
     title: Dennis Pater 
     subtitle: "Mijn Persoonlijke portfolio site!"
     imageUrl: "/dennis.jpg"
@@ -82,7 +82,7 @@ params:
       - name: Over mij
         url: about
       - name: Blog
-        url: posts
+        url: blog
 
   # home-info mode
   homeInfoParams:
@@ -125,7 +125,7 @@ menu:
   main:
     - identifier: blog posts
       name: Blog
-      url: /posts/
+      url: /blog/
       weight: 10
     - identifier: About
       name: Over mij
