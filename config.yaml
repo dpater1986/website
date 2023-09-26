@@ -14,13 +14,13 @@ minify:
 
 defaultContentLanguage: nl
 languages:
-  nl:
+  nerderlands:
     disabled: false
     languageCode: "nl-NL"
     languageName: "Nederlands"
     subtitle: "Mijn Persoonlijke portfolio site!"
     weight: 0
-  en:
+  english:
     disabled: false
     languageCode: "en-US"
     languageName: "English"
