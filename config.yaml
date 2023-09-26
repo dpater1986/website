@@ -18,14 +18,14 @@ languages:
     disabled: false
     languageCode: "nl-NL"
     languageName: "Nederlands"
+    subtitle: "Mijn Persoonlijke portfolio site!"
     weight: 0
-    description: "Persoonlijke portfolio"
   en:
     disabled: false
     languageCode: "en-US"
     languageName: "English"
+    subtitle: "My personal portfolio site!"
     weight: 1
-    description: "Personal portfolio"
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
