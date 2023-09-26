@@ -79,10 +79,10 @@ params:
     imageHeight: 120
     imageTitle: Dennis Pater in Noorwegen
     buttons:
-      - name: Posts
+      - name: Over mij
+        url: about
+      - name: Blog
         url: posts
-      - name: Tags
-        url: tags
 
   # home-info mode
   homeInfoParams:
@@ -123,18 +123,14 @@ params:
     keys: ["title", "permalink", "summary", "content"]
 menu:
   main:
-    - identifier: categories
-      name: categories
-      url: /categories/
+    - identifier: blog posts
+      name: Blog
+      url: /posts/
       weight: 10
-    - identifier: tags
-      name: tags
-      url: /tags/
+    - identifier: About
+      name: Over mij
+      url: /about/
       weight: 20
-    - identifier: example
-      name: example.org
-      url: https://example.org
-      weight: 30
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
