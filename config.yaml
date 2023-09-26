@@ -13,6 +13,7 @@ minify:
   minifyOutput: true
 
 defaultContentLanguage: nl
+displayFullLangName: true
 languages:
   nl:
     disabled: false
