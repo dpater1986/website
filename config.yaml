@@ -15,14 +15,15 @@ minify:
 defaultContentLanguage: nl
 
 languages:
-  displayFullLangName: true
   nl:
+    displayFullLangName: true
     disabled: false
     languageCode: "nl-NL"
     languageName: "Nederlands"
     subtitle: "Mijn Persoonlijke portfolio site!"
     weight: 0
   en:
+    displayFullLangName: true
     disabled: false
     languageCode: "en-US"
     languageName: "English"
