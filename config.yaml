@@ -52,7 +52,7 @@ languages:
             weight: 90
 
   en:
-    languageName: "🇺🇸 English"
+    languageName: "🇬🇧 English"
     langageAltTitle: English
     languageCode: "en-US"
     subtitle: "My personal portfolio site!"
