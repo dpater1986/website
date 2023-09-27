@@ -16,19 +16,76 @@ defaultContentLanguage: nl
 
 languages:
   nl:
-    displayFullLangName: true
-    disabled: false
+    languageName: ":nl:"
+    langageAltTitle: Nederlands
     languageCode: "nl-NL"
-    languageName: "Nederlands"
     subtitle: "Mijn Persoonlijke portfolio site!"
     weight: 0
+    taxonomies:
+      category: categorie
+      tags: labels
+    profileMode:
+      enabled: true # needs to be explicitly set
+      title: Dennis Pater 
+      subtitle: "Mijn Persoonlijke portfolio site!"
+      imageUrl: "/dennis.jpg"
+      imageWidth: 120
+      imageHeight: 120
+      imageTitle: Dennis Pater in Noorwegen
+      buttons:
+        - name: Over mij
+          url: about
+        - name: Blog
+          url: blog
+    menu:
+      main:
+          - name: blog
+            url: /blog/
+            weight: 5
+          - name: categorie
+            url: /categorie/
+            weight: 10
+          - name: Over mij
+            url: /about/
+            weight: 90
+
   en:
-    displayFullLangName: true
-    disabled: false
+    languageName: ":en:"
+    langageAltTitle: English
     languageCode: "en-US"
-    languageName: "English"
     subtitle: "My personal portfolio site!"
     weight: 1
+    taxonomies:
+      category: category
+      tags: tags
+    profileMode:
+      enabled: true # needs to be explicitly set
+      title: Dennis Pater 
+      subtitle: "My personal portfolio site!"
+      imageUrl: "/dennis.jpg"
+      imageWidth: 120
+      imageHeight: 120
+      imageTitle: Dennis Pater in Norway
+      buttons:
+        - name: About me
+          url: about
+        - name: Blog
+          url: blog
+      editPost:
+        URL: "https://github.com/dpater1986/website/tree/main/content"
+        Text: "Sugest changes" # edit text
+        appendFilePath: true # to append file path to Edit link
+    menu:
+      main:
+          - name: blog
+            url: /blog/
+            weight: 5
+          - name: categorie
+            url: /category/
+            weight: 10
+          - name: About me
+            url: /about/
+            weight: 90
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
@@ -41,7 +98,7 @@ params:
   DateFormat: "2 januari 2006"
   defaultTheme: light # dark, light
   disableThemeToggle: true
-
+  displayFullLangName: true
   ShowReadingTime: true
   ShowShareButtons: true
   ShowPostNavLinks: true
@@ -71,21 +128,6 @@ params:
     text: "Home"
     icon: /apple-touch-icon.png
     iconHeight: 35
-
-  # profile-mode
-  profileMode:
-    enabled: true # needs to be explicitly set
-    title: Dennis Pater 
-    subtitle: "Mijn Persoonlijke portfolio site!"
-    imageUrl: "/dennis.jpg"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: Dennis Pater in Noorwegen
-    buttons:
-      - name: Over mij
-        url: about
-      - name: Blog
-        url: blog
 
   # home-info mode
   homeInfoParams:
@@ -124,16 +166,7 @@ params:
     threshold: 0.4
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
-menu:
-  main:
-    - identifier: blog posts
-      name: Blog
-      url: /blog/
-      weight: 10
-    - identifier: About
-      name: Over mij
-      url: /about/
-      weight: 20
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
