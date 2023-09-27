@@ -18,7 +18,7 @@ defaultContentLanguage: nl
 
 languages:
   nl:
-    languageName: ":nl:"
+    languageName: ":fr:"
     langageAltTitle: Nederlands
     languageCode: "nl-NL"
     subtitle: "Mijn Persoonlijke portfolio site!"
@@ -52,7 +52,7 @@ languages:
             weight: 90
 
   en:
-    languageName: ":en:"
+    languageName: ":us:"
     langageAltTitle: English
     languageCode: "en-US"
     subtitle: "My personal portfolio site!"
