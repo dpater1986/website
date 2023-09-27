@@ -3,8 +3,9 @@ title: "Over mij"
 date: 2023-09-26T13:52:23+02:00
 disableShare: true
 cover:
-    image: test.jpg
-    alt: eifeltoren
-    caption: dierentuin eifeltoren
+    image: Dennis-EidfjordNoorwegen.jpg
+    alt: Foto van Dennis in Eidfjord Noorwegen .
+    caption: Eidfjord, Noorwegen
 ---
-![dennis](/dennis.jpg)
+# test
+
