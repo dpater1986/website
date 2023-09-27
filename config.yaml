@@ -18,7 +18,7 @@ defaultContentLanguage: nl
 
 languages:
   nl:
-    languageName: ":fr:"
+    languageName: ":flag_netherlands:"
     langageAltTitle: Nederlands
     languageCode: "nl-NL"
     subtitle: "Mijn Persoonlijke portfolio site!"
