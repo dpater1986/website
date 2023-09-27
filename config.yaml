@@ -18,7 +18,7 @@ defaultContentLanguage: nl
 
 languages:
   nl:
-    languageName: ":flag_netherlands:"
+    languageName: "🇳🇱 Nederlands"
     langageAltTitle: Nederlands
     languageCode: "nl-NL"
     subtitle: "Mijn Persoonlijke portfolio site!"
@@ -52,7 +52,7 @@ languages:
             weight: 90
 
   en:
-    languageName: ":us:"
+    languageName: "🇺🇸 English"
     langageAltTitle: English
     languageCode: "en-US"
     subtitle: "My personal portfolio site!"
