@@ -80,7 +80,7 @@ languages:
           - name: blog
             url: /blog/
             weight: 5
-          - name: categorie
+          - name: category
             url: /category/
             weight: 10
           - name: About me
