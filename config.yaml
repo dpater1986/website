@@ -25,7 +25,7 @@ languages:
     weight: 0
     taxonomies:
       category: categorie
-      tags: label
+      tags: labels
     profileMode:
       enabled: true # needs to be explicitly set
       title: Hoi, welkom!
