@@ -5,10 +5,10 @@ cover:
     image: Dennis-EidfjordNoorwegen.jpg
     alt: Photo of Dennis in Eidfjord Norway.
     caption: Eidfjord, Norway
-category:
+categorie:
     - abcnl
     - defnl
-tags:
+label:
     - t1nl
     - t2nl
 ---
