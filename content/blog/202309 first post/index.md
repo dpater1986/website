@@ -12,4 +12,4 @@ labels:
     - t1nl
     - t2nl
 ---
-I enjoy living and working here. I am an independent entrepreneur, father and husband. Together with my parents I run a 'Spar' supermarket in the town of Exloo. In my spare time I like to play a game of tennis. 
+Waarom zie ik mijn labels niet????
