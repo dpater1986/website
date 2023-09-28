@@ -8,7 +8,7 @@ cover:
 categorie:
     - abcnl
     - defnl
-labels:
+tags:
     - t1nl
     - t2nl
 ---
