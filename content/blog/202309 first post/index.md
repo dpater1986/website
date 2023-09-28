@@ -1,5 +1,15 @@
 ---
-title: "blog"
-date: 2023-09-26T13:37:35+02:00
+title: "My first post"
+description: ""
+cover:
+    image: Dennis-EidfjordNoorwegen.jpg
+    alt: Photo of Dennis in Eidfjord Norway.
+    caption: Eidfjord, Norway
+category:
+    - abcnl
+    - defnl
+tags:
+    - t1nl
+    - t2nl
 ---
-Dit zijn de dingen die me bezig houden en die ik graag met jullie wil delen.
+I enjoy living and working here. I am an independent entrepreneur, father and husband. Together with my parents I run a 'Spar' supermarket in the town of Exloo. In my spare time I like to play a game of tennis. 
