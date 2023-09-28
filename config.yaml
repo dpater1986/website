@@ -28,8 +28,8 @@ languages:
       tags: labels
     profileMode:
       enabled: true # needs to be explicitly set
-      title: Dennis Pater 
-      subtitle: "Mijn Persoonlijke portfolio site!"
+      title: Hoi, welkom!
+      subtitle: "Dit is de website van Dennis Pater."
       imageUrl: "/dennis.jpg"
       imageWidth: 120
       imageHeight: 120
@@ -55,7 +55,8 @@ languages:
     languageName: "🇬🇧 English"
     langageAltTitle: English
     languageCode: "en-US"
-    subtitle: "My personal portfolio site!"
+    title: Hi, welcome!
+    subtitle: "This is the website from Dennis Pater."
     weight: 1
     taxonomies:
       category: category
