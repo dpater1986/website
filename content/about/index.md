@@ -1,6 +1,6 @@
 ---
-title: "Dennis Pater"
-description: "Ik ben Dennis"
+title: "Hoi, ik ben Dennis!"
+description: "Welkom in drenthe. Hier woon en werk ik met veel plezier. Ik ben een zelfstandig ondernemer, vader en man. Ik run samen met mijn ouders een "Spar" supermarkt in het plaatsje Exloo."
 date: 1986-10-19
 disableShare: true
 cover:
