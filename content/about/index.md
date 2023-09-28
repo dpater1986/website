@@ -1,6 +1,7 @@
 ---
-title: ""
-date: 2023-09-26T13:52:23+02:00
+title: "Dennis Pater"
+description: "Ik ben Dennis"
+date: 1986-10-19
 disableShare: true
 cover:
     image: Dennis-EidfjordNoorwegen.jpg
@@ -8,8 +9,9 @@ cover:
     caption: Eidfjord, Noorwegen
 hidemeta: true
 ShowBreadCrumbs: false
+ShowPostNavLinks: false
 ---
-# Dennis Pater
+**
 abc
 ## Hobbies
 ## Werk
