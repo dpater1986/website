@@ -2,7 +2,7 @@
 title: "My first post"
 description: ""
 cover:
-    image: Dennis-EidfjordNoorwegen.jpg
+    image: images/Dennis-EidfjordNoorwegen.jpg
     relative: true
     alt: Photo of Dennis in Eidfjord Norway.
     caption: Eidfjord, Norway
