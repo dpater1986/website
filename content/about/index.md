@@ -3,7 +3,7 @@ title: "Hoi, ik ben Dennis!"
 description: "Welkom in drenthe."
 disableShare: true
 cover:
-    image: Dennis-EidfjordNoorwegen.jpg
+    image: images/Dennis-EidfjordNoorwegen.jpg
     alt: Foto van Dennis in Eidfjord Noorwegen .
     caption: Eidfjord, Noorwegen
 hidemeta: false
