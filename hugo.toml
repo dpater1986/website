@@ -45,9 +45,6 @@ theme = "gallery"
     source = "assets/watching/hugo_stats\\.json"
     target = "styles\\.css"
   [[build.cachebusters]]
-    source = "(postcss|tailwind)\\.config\\.js"
-    target = "css"
-  [[build.cachebusters]]
     source = "assets/.*\\.(js)"
     target = "js"
   [[build.cachebusters]]
