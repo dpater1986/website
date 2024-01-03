@@ -1,6 +1,6 @@
 ---
-title: "Een Frisse Start: Reflecties op het Jaar en Nieuwe Fotografische Avonturen in 2024"
-description: "Een nieuwjaar dat van start gaat"
+title: "Een Frisse Start"
+description: "Reflecties op het Jaar en Nieuwe Fotografische Avonturen in 2024."
 date: 2024-01-01T08:00:00+02:00
 cover:
     image: nieuwjaar-cover.jpg
