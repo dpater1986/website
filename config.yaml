@@ -49,10 +49,10 @@ languages:
             weight: 10
           - name: over mij
             url: /about/
-            weight: 80
+            weight: 90
           - name: archief
             url: /archives/
-            weight: 90
+            weight: 80
 
   en:
     languageName: "🇬🇧 English"
@@ -87,11 +87,11 @@ languages:
             weight: 10
           - name: about me
             url: /about/
-            weight: 80
+            weight: 90
           - name: archive
             url: /archives/
-            weight: 90
-
+            weight: 80
+            
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Dennis Pater
