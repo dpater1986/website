@@ -41,16 +41,16 @@ languages:
           url: blog
     menu:
       main:
-          - name: Blog
+          - name: blog
             url: /blog/
             weight: 5
-          - name: Categorie
+          - name: categorie
             url: /categorie/
             weight: 10
-          - name: Over mij
+          - name: over mij
             url: /about/
             weight: 80
-          - name: Archief
+          - name: archief
             url: /archives/
             weight: 90
 
@@ -79,16 +79,16 @@ languages:
           url: blog
     menu:
       main:
-          - name: Blog
+          - name: blog
             url: /blog/
             weight: 5
-          - name: Category
+          - name: category
             url: /category/
             weight: 10
-          - name: About me
+          - name: about me
             url: /about/
             weight: 80
-          - name: Archive
+          - name: archive
             url: /archives/
             weight: 90
 
