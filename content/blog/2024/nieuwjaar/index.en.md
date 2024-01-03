@@ -38,7 +38,7 @@ While cherishing these precious moments, I also realized it was time to redirect
 Therefore, I have decided to embark on a new journey in 2024, focusing more on my love for photography. The camera, which may have collected some dust recently, will once again become an extension of my senses. Photography, for me, is more than just capturing images; it's a way to see and understand the world, expressing my own creative voice.
 
 This blog, which has been silent for a while, will be revived with stories, images, and experiences. I invite you to join me on my journey of photographic discoveries, with the intention of capturing and sharing the beauty of the everyday. From my son's smile to the subtle changes in the seasons, I aim to immortalize these precious moments.
-![Dennis, Minou and Kyan](/nieuwjaar-001.jpg)
+![Dennis and Minou with champain](nieuwjaar-001.jpg "Minou and Dennis (ltr))
 
 So, as I bid farewell to the old year, I welcome the new one with open arms and renewed focus. I look forward to sharing my photographic adventures and creating a space where we can together revel in the beautiful moments life has to offer.
 
