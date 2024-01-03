@@ -6,7 +6,7 @@ cover:
     image: nieuwjaar-cover.jpg
     relative: true
     alt: Dennis, Minou and Kyan next to each other.
-    caption: Minou, Kyan and Dennis (fltr) op Nieuwjaarsdag
+    caption: Minou, Kyan and Dennis (ltr) op Nieuwjaarsdag
 categorie:
     - Personal Reflections
     - Parenting
