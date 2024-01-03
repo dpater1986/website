@@ -29,7 +29,7 @@ languages:
     profileMode:
       enabled: true # needs to be explicitly set
       title: Hoi, welkom!
-      subtitle: "Dit is de website van Dennis Pater."
+      subtitle: "Dit is de mijn (Dennis) persoonlijke website"
       imageUrl: "/dennis.jpg"
       imageWidth: 120
       imageHeight: 120
@@ -59,15 +59,15 @@ languages:
     langageAltTitle: English
     languageCode: "en-US"
     title: Hi, welcome!
-    subtitle: "This is the website from Dennis Pater."
+    subtitle: "This is my (Dennis) personal website."
     weight: 1
     taxonomies:
       category: category
       tags: tags
     profileMode:
-      enabled: true # needs to be explicitly set
-      title: Dennis Pater 
-      subtitle: "My personal portfolio site!"
+      enabled: false # needs to be explicitly set
+      title: Hi, welcome! 
+      subtitle: "This is my (Dennis) personal website."
       imageUrl: "/dennis.jpg"
       imageWidth: 120
       imageHeight: 120
