@@ -30,9 +30,9 @@ languages:
       enabled: true # needs to be explicitly set
       title: Hoi, welkom!
       subtitle: "Dit is de mijn (Dennis) persoonlijke website"
-      imageUrl: "/dennis.jpg"
-      imageWidth: 120
-      imageHeight: 120
+      imageUrl: "/images/dennis.jpg"
+      imageWidth: 240
+      imageHeight: 240
       imageTitle: Dennis Pater in Noorwegen
       buttons:
         - name: Over mij
@@ -65,12 +65,12 @@ languages:
       category: category
       tags: tags
     profileMode:
-      enabled: false # needs to be explicitly set
+      enabled: true # needs to be explicitly set
       title: Hi, welcome! 
       subtitle: "This is my (Dennis) personal website."
-      imageUrl: "/dennis.jpg"
-      imageWidth: 120
-      imageHeight: 120
+      imageUrl: "/images/dennis.jpg"
+      imageWidth: 240
+      imageHeight: 240
       imageTitle: Dennis Pater in Norway
       buttons:
         - name: About me
