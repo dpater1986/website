@@ -91,7 +91,7 @@ languages:
           - name: archive
             url: /archives/
             weight: 80
-            
+
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Dennis Pater
@@ -117,7 +117,7 @@ params:
   disableScrollToTop: false
   comments: true
   hidemeta: false
-  hideSummary: false
+  hideSummary: true
   showtoc: true
   tocopen: false
 
