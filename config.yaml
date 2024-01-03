@@ -49,6 +49,9 @@ languages:
             weight: 10
           - name: Over mij
             url: /about/
+            weight: 80
+          - name: archief
+            url: /archives/
             weight: 90
 
   en:
@@ -84,6 +87,9 @@ languages:
             weight: 10
           - name: About me
             url: /about/
+            weight: 80
+          - name: Archive
+            url: /archives/
             weight: 90
 
 params:
