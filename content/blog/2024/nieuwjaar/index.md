@@ -3,7 +3,7 @@ title: "Een Frisse Start: Reflecties op het Jaar en Nieuwe Fotografische Avontur
 description: "Een nieuwjaar dat van start gaat"
 date: 2024-01-01T08:00:00+02:00
 cover:
-    image: images/2024/20240101DennisMinouenKyan.jpg
+    image: nieuwjaar-cover.jpg
     relative: true
     alt: Dennis, Minou en Kyan naast elkaar.
     caption: Minou, Kyan en Dennis (vlnr) op Nieuwjaarsdag
