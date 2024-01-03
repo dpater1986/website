@@ -39,7 +39,7 @@ Terwijl ik deze kostbare momenten koesterde, realiseerde ik me ook dat het tijd 
 Daarom heb ik besloten om in 2024 een nieuwe koers in te slaan en me meer te richten op mijn liefde voor fotografie. De camera, die de afgelopen tijd misschien wat stof heeft verzameld, zal nu weer een verlengstuk van mijn zintuigen worden. Fotografie is voor mij meer dan alleen het vastleggen van beelden; het is een manier om de wereld te zien, te begrijpen en mijn eigen creatieve stem te uiten.
 
 Deze blog, die een tijdje stil heeft gestaan, zal nieuw leven worden ingeblazen met verhalen, beelden en ervaringen. Ik neem jullie graag mee op mijn reis van fotografische ontdekkingen, met het voornemen om de schoonheid van het alledaagse vast te leggen en te delen. Van de glimlach van mijn zoon tot de subtiele veranderingen in het seizoen, ik wil deze kostbare momenten vereeuwigen.
-![Dennis, Minou en Kyan](/images/2024/nieuwjaar-001.jpg "Minou, Kyan en Dennis (fltr)")
+![Dennis, Minou en Kyan](/images/2024/nieuwjaar-001.jpg)
 
 Dus, terwijl ik afscheid neem van het oude jaar, omarm ik het nieuwe met open armen en een hernieuwde focus. Ik kijk uit naar het delen van mijn fotografische avonturen en het creëren van een ruimte waar we samen kunnen genieten van de prachtige momenten die het leven te bieden heeft.
 
