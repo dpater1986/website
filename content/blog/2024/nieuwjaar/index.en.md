@@ -1,6 +1,6 @@
 ---
-title: "A Fresh Start: Reflections on the Year and New Photographic Adventures in 2024"
-description: "A newyear what is going to begin"
+title: "A Fresh Start"
+description: "Reflections on the Year and New Photographic Adventures in 2024"
 date: 2024-01-01T08:00:00+02:00
 cover:
     image: nieuwjaar-cover.jpg
