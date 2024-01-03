@@ -1,7 +1,7 @@
 ---
 title: "My first post"
 description: ""
-date: "01-01-2024"
+date: "2024-01-01"
 cover:
     image: images/Dennis-EidfjordNoorwegen.jpg
     relative: true
